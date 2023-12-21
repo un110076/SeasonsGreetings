@@ -1,2 +1,4 @@
 # SeasonsGreetings
-Season's Greetings by Algorithmic Differentiation; see SeasonsGreetings.pdf.
+Season's Greetings by Algorithmic Differentiation 
+
+See SeasonsGreetings.pdf.
